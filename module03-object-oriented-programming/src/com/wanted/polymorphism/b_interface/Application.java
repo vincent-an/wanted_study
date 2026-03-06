@@ -10,6 +10,5 @@ public class Application {
         InterfaceProduct ip = new Product();
         ip.methodA();
         InterfaceProduct.staticMathod();
-
     }
 }
